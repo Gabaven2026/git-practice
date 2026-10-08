@@ -1,2 +1,2 @@
-print("Hello World !!")
+print("こんにちは!!")
 print("mainブランチでprint文を追加")

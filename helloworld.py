@@ -1,3 +1,3 @@
 print("Hello World !!")
-print("mainブランチでprint文を追加")
+print("適当")
 print("pullできていますか？")

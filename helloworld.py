@@ -1,2 +1,5 @@
 print("Hello World !!コンニチワ！！")
 print("10月だってのに暑いですね！！")
+print("Hello World !!")
+print("mainブランチでprint文を追加")
+print("pullできていますか？")

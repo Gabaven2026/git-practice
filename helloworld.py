@@ -3,4 +3,7 @@ print("とても暑いですね！")
 
 print("涼しいところに行きたいです。")
 print("mainブランチでprint文を追加")
+print("こんにちは")
+print("たのしいね")
+print("こんばんわ")
 print("pullできました")

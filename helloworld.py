@@ -1,2 +1,6 @@
 print("Hello!!")
 print("とても暑いですね")
+print("Hello World !!")
+print("mainブランチでprint文を追加")
+print("pullできていますか？")
+print("Hello")

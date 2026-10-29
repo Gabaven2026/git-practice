@@ -1,4 +1,7 @@
-print("Hello World !!")
 print("25143037")
+print("mainブランチでprint文を追加")
+print("こんにちは")
+print("Hello")
+print("24238445-sub branch")
 print("pullできていますか？")
 print("aas")

@@ -1,3 +1,2 @@
 print("Hello World !!")
-print("mainブランチでprint文を追" \
-"加")
+print("taiga-sub2で変更")
